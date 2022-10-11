@@ -31,11 +31,11 @@ This case requires to develop a model for predicting fraudulent transactions for
 # Approach:
 Steps to approach the problem:
 
-1. Libraries: Imported required libraries such as Pandas, NumPy, Matplotlib, Seaborne, and Sklearn.
-2. Data Exploration: Explored data using above mentioned libraries.
-3. Data Visualization: Visualized data using matplotlib and seaborne.
-4. Model Traing: Applied Logistic Regression to train the model.
-5. Evaluation of the model: Evaluation is done by using metrics such as accuracy score, precision score and recall score.
+1. **Libraries**: Imported required libraries such as Pandas, NumPy, Matplotlib, Seaborne, and Sklearn.
+2. **Data Exploration**: Explored data using above mentioned libraries.
+3. **Data Visualization**: Visualized data using matplotlib and seaborne.
+4. **Model Traing**: Applied Logistic Regression to train the model.
+5. **Evaluation of the model**: Evaluation is done by using metrics such as accuracy score, precision score and recall score.
 
 # Conclusion:
 Developed a machine learning model using logistic regression. Evaluated the performance of the model using an accuracy score which is 91.9%, a precision score which is 88.5%, and a recall score which is 96.4%.
