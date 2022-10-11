@@ -38,5 +38,5 @@ Steps to approach the problem:
 5. **Evaluation of the model**: Evaluation is done by using metrics such as accuracy score, precision score and recall score.
 
 # Conclusion:
-Developed a machine learning model using logistic regression. Evaluated the performance of the model using an accuracy score which is 91.9%, a precision score which is 88.5%, and a recall score which is 96.4%.
+Developed a machine learning model using logistic regression. Evaluated the performance of the model using an accuracy score which is 92.2%, a precision score which is 88.9%, and a recall score which is 96.5%.
 
